@@ -28,3 +28,17 @@ D:\chk\AzureProj\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.Raz
 D:\chk\AzureProj\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfoInputs.cache
 D:\chk\AzureProj\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfo.cs
 D:\chk\AzureProj\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\48832\Identity\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.deps.json
+D:\48832\Identity\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.json
+D:\48832\Identity\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.dev.json
+D:\48832\Identity\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\48832\Identity\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.pdb
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csprojAssemblyReference.cache
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csproj.CoreCompileInputs.cache
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cache
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cs
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfoInputs.cache
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfo.cs
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\48832\Identity\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.pdb
