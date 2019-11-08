@@ -13106,11 +13106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\chk\\AzureProj\\IdentityAPI\\IdentityAPI\\IdentityAPI.csproj",
+      "projectUniqueName": "D:\\48832\\Identity\\IdentityAPI\\IdentityAPI\\IdentityAPI.csproj",
       "projectName": "IdentityAPI",
-      "projectPath": "D:\\chk\\AzureProj\\IdentityAPI\\IdentityAPI\\IdentityAPI.csproj",
+      "projectPath": "D:\\48832\\Identity\\IdentityAPI\\IdentityAPI\\IdentityAPI.csproj",
       "packagesPath": "C:\\Users\\r1m1nrao\\.nuget\\packages\\",
-      "outputPath": "D:\\chk\\AzureProj\\IdentityAPI\\IdentityAPI\\obj\\",
+      "outputPath": "D:\\48832\\Identity\\IdentityAPI\\IdentityAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
